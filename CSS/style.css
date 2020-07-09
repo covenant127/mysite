@@ -42,7 +42,7 @@ p {
   position: fixed;
   right: 300px;
   top: 50px;
-  width: 5%;
+  max-width: 5%;
   height: auto;
   opacity: 0.1;
 }
@@ -52,7 +52,7 @@ p {
   position: fixed;
   top: 750px;
   left: 200px;
-  width: 5%;
+  max-width: 5%;
   height: auto;
   opacity: 0.1;
 }
