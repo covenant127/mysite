@@ -1,0 +1,140 @@
+body {
+  color: #40514e;
+  background-color: #e4e3e3;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #0f3d3d;
+  margin-bottom: 50px;
+  margin-top: 150px;
+  padding-top: 150px;
+  font-family: 'Sacramento', cursive;
+  font-size: 10rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  padding-bottom: 0;
+}
+
+hr {
+  border: dotted #3b6978 10px;
+  border-bottom: 0;
+  width: 5%;
+  clear: right;
+  margin: 300px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 20%;
+  margin: auto;
+}
+
+.topMusic {
+  filter: invert(34%) sepia(11%) saturate(1750%) hue-rotate(149deg) brightness(103%) contrast(86%);
+  position: fixed;
+  right: 300px;
+  top: 50px;
+  width: 128px;
+  height: auto;
+  opacity: 0.1;
+}
+
+.bottomMusic {
+  filter: invert(34%) sepia(11%) saturate(1750%) hue-rotate(149deg) brightness(103%) contrast(86%);
+  position: fixed;
+  top: 750px;
+  left: 200px;
+  width: 128px;
+  height: auto;
+  opacity: 0.1;
+}
+
+.pIntro {
+  color: #0f3d3d;
+  font-size: 1.875rem;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  padding: 100px auto;
+  text-align: left;
+}
+
+.skillImage {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.musicProtitle {
+  text-align: left;
+}
+
+.musicImage {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.musicSkull {
+  position: relative;
+  padding-top: 400px;
+}
+
+.socialmediaLogo {
+  padding: 20px;
+}
+
+.contactMessage {
+  width: 40%;
+  margin: 60px auto 60px;
+}
+
+.bottom-container {
+  background-color: #84a9ac;
+  margin-top: 20px;
+  padding: 20px 0 10px;
+}
+
+.btn {
+  background: #204051;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: none;
+  background: #3B6978;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.mediaLogo {
+  filter: invert(32%) sepia(24%) saturate(514%) hue-rotate(10deg) brightness(90%) contrast(94%);
+}
+
+.flaticonIcon {
+  text-decoration: none;
+}
