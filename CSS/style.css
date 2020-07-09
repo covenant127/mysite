@@ -39,7 +39,6 @@ p {
 
 .topMusic {
   filter: invert(34%) sepia(11%) saturate(1750%) hue-rotate(149deg) brightness(103%) contrast(86%);
-  position: fixed;
   right: 300px;
   top: 50px;
   max-width: 5%;
@@ -49,7 +48,6 @@ p {
 
 .bottomMusic {
   filter: invert(34%) sepia(11%) saturate(1750%) hue-rotate(149deg) brightness(103%) contrast(86%);
-  position: fixed;
   top: 750px;
   left: 200px;
   max-width: 5%;
